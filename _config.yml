@@ -1,9 +1,9 @@
 title:            Ryan Lindsey
 description:      "Web developer, gadget-lover & adrenaline junkie"
 logo:             site-logo.png
-# disqus_shortname: ""
+disqus_shortname: "pixelsonly-github-io"
 #Comment out url when working locally to resolve base urls correctly
-url:              http://pixelsonly.github.io
+# url:              http://pixelsonly.github.io
 
 # Owner/author information
 owner:
