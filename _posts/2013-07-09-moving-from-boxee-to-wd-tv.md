@@ -59,3 +59,11 @@ On first boot, the **WD TV Live** presented a clean interface and since I was co
 ### Final Thoughts
 
 Overall, I am quite happy with my choice and my expectations have been exceeded. I realize that my technical knowledge and use case is not typical. That being said, I'm not sure I'd recommend a **WD TV Live** to my parents but I definitely would to anyone that is a current **Boxee Box** user or someone looking for power-user type features not offered by the competition.
+
+---
+
+### Update: July 15, 2013
+
+After a few days of average use I've decided to post a follow up with more details. Overall, I'm still mostly satisfied with the **WD TV Live**, but I did run into a pretty big snag after the second day of use. During the initial setup I added several network shares to the Media Library feature which includes over 300 HD movies and over 80GB of music. Once the indexing was finished the **WD TV Live** slowed dramatically, the UI was barely usable and apps like Netflix ran poorly. Also, the Netflix app would freeze the unit when queueing up videos, which required a reboot to get working again.
+
+I have since disabled the *Media Library* functionality entirely. I can still navigate my network shares&mdash;find movies & play albums, but it's going to take me awhile no longer miss the **Boxee box** interface.
