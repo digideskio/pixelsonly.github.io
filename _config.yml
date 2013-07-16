@@ -3,8 +3,8 @@ description:      "Web developer, gadget-lover & adrenaline junkie"
 logo:             site-logo.jpg
 disqus_shortname: "pixelsonly-github-io"
 #Comment out url when working locally to resolve base urls correctly
-url:              http://pixelsonly.com
-# url:              http://localhost:4000
+# url:              http://pixelsonly.com
+url:              http://pixelsonly.github.io.dev
 
 # Owner/author information
 owner:
@@ -22,8 +22,8 @@ owner:
   # google_plus:    ""
 
 # Analytics and webmaster tools stuff goes here
-# google_analytics:   UA-2011187-2
-# google_verify:      UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
+google_analytics:   UA-2516002-12
+google_verify:      pRTF5bgyr-EbTjLh3Up4Vf8WIcWubivgkEmj2PoeT9g
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify:        D81F4C18A6CB3018F64D7C827D953DFD
 
