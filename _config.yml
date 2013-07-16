@@ -3,8 +3,8 @@ description:      "Web developer, gadget-lover & adrenaline junkie"
 logo:             site-logo.jpg
 disqus_shortname: "pixelsonly-github-io"
 #Comment out url when working locally to resolve base urls correctly
-# url:              http://pixelsonly.com
-url:              http://pixelsonly.github.io.dev
+url:              http://pixelsonly.com
+# url:              http://pixelsonly.github.io.dev
 
 # Owner/author information
 owner:
