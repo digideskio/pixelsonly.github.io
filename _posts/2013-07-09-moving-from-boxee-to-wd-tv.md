@@ -1,13 +1,16 @@
 ---
+published: true
 layout: post
 title: "WD TV Live - First Impressions"
 description: ""
 category: articles
-tags: [boxee box, wd tv live, roku, apple tv]
+tags: 
+  - boxee box
+  - wd tv live
+  - roku
+  - apple tv
 comments: true
-published: true
 ---
-
 
 ### Demise of the Boxee Box
 My Boxee box has been the key component of my home entertainment setup for the past few years. I've recommended it to family & friends numerous times. Unfortunately, Boxee continues to disregard & alienate it's most loyal customers. Now, with the Samsung acquisition underway & official news of more abandonement, I have decided to cut my losses & move on.
@@ -59,6 +62,8 @@ On first boot, the **WD TV Live** presented a clean interface and since I was co
 ### Final Thoughts
 
 Overall, I am quite happy with my choice and my expectations have been exceeded. I realize that my technical knowledge and use case is not typical. That being said, I'm not sure I'd recommend a **WD TV Live** to my parents but I definitely would to anyone that is a current **Boxee Box** user or someone looking for power-user type features not offered by the competition.
+
+**[Purchase on Amazon.com](http://www.amazon.com/gp/product/B005KOZNBW/ref=cm_cr_ryp_prd_ttl_sol_0)**
 
 ---
 
