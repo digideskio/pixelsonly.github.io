@@ -63,7 +63,7 @@ On first boot, the **WD TV Live** presented a clean interface and since I was co
 
 Overall, I am quite happy with my choice and my expectations have been exceeded. I realize that my technical knowledge and use case is not typical. That being said, I'm not sure I'd recommend a **WD TV Live** to my parents but I definitely would to anyone that is a current **Boxee Box** user or someone looking for power-user type features not offered by the competition.
 
-**[Purchase on Amazon.com](http://www.amazon.com/gp/product/B005KOZNBW/ref=cm_cr_ryp_prd_ttl_sol_0)**
+**[Buy WD TV Live on Amazon.com](http://www.amazon.com/gp/product/B005KOZNBW/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005KOZNBW&linkCode=as2&tag=pixelsonly-20)**
 
 ---
 
