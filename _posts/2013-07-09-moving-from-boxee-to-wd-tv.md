@@ -10,6 +10,8 @@ tags:
   - roku
   - apple tv
   - gadgets
+image:
+  feature: wdtvlive-feature.jpg
 comments: true
 ---
 
@@ -72,4 +74,12 @@ Overall, I am quite happy with my choice and my expectations have been exceeded.
 
 After a few days of average use I've decided to post a follow up with more details. Overall, I'm still mostly satisfied with the **WD TV Live**, but I did run into a pretty big snag after the second day of use. During the initial setup I added several network shares to the Media Library feature which includes over 300 HD movies and over 80GB of music. Once the indexing was finished the **WD TV Live** slowed dramatically, the UI was barely usable and apps like Netflix ran poorly. Also, the Netflix app would freeze the unit when queueing up videos, which required a reboot to get working again.
 
-I have since disabled the *Media Library* functionality entirely. I can still navigate my network shares&mdash;find movies & play albums, but it's going to take me awhile no longer miss the **Boxee box** interface.
+I have since disabled the *Media Library* functionality entirely. I can still navigate my network shares&mdash;find movies & play albums, but it's going to take me awhile no longer miss the **Boxee Box** interface.
+
+---
+
+### Update: July 21, 2013
+
+I've spent several weeks with my **WD TV Live** and the experience keeps changing. I've had to completely disable the *Media Library* feature in order to gain extra system stability. Unfortunately that doesn't seem to have solved everything. I believe there are real perfomance issues with the Netflix app as it continues to hang at different times, especially when queueing up TV episodes back to back. I am fortunate to be a Verizon FiOS customer with a 75/35 Mbps connection, so I definitely don't have bandwidth issues. The Netflix iPad app doesn't experience these issues, my gut is telling me these are platform specific problems.
+
+I really want to like the **WD TV Live**, but inconsistent performance and stability tarnish it's reputation the more you use it. To be fair, the Netflix issues could very well not be the device's fault because I've noticed similarities on other devices like Roku. I'm probably going to boot my **Boxee Box** up again and give it another chance.
