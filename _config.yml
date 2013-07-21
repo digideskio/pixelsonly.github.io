@@ -5,6 +5,7 @@ disqus_shortname: "pixelsonly-github-io"
 #Comment out url when working locally to resolve base urls correctly
 url:              http://pixelsonly.com
 # url:              http://pixelsonly.github.io.dev
+# url:              http://localhost:4000
 
 # Owner/author information
 owner:

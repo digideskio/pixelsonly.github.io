@@ -9,6 +9,7 @@ tags:
   - wd tv live
   - roku
   - apple tv
+  - gadgets
 comments: true
 ---
 
