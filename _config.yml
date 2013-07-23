@@ -15,7 +15,7 @@ owner:
   twitter:        "pixelsonly"
   # facebook:       ""
   github:         "pixelsonly"
-  linkedin:       "ryanlindsey"
+  linkedin:       "pixelsonly"
   instagram:      "pixelsonly"
   # tumblr:         ""
   # For Google Authorship https://plus.google.com/authorship
@@ -32,8 +32,10 @@ google_verify:      pRTF5bgyr-EbTjLh3Up4Vf8WIcWubivgkEmj2PoeT9g
 links:
   - title: Articles
     url: /articles
-  # - title: Work
-  #   url: /work
+  - title: Work
+    url: /work
+  - title: Projects
+    url: /projects
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
