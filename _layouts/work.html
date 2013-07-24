@@ -17,16 +17,7 @@
     {% if page.image.feature %}<img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}">{% endif %}
     <div class="entry-wrapper">
       <header class="entry-header">
-        <ul>
-          <li>Deep understanding of HTML5, CSS3 and Javascript</li>
-          <li>Front-end asset architecture &amp; optimization for high-performace websites</li>
-          <li>Absolutely love evaluating new technology, tools, etc</li>
-          <li>Take pride in writing clean &amp; re-usable code</li>
-          <li>Ruby on Rails enthusiast</li>
-          <li>Enjoy language pre-proccessors such as HAML, SASS and Coffeescript</li>
-          <li>Pixel-level attention to detail</li>
-          <li>Strong foundation in UI development and usability</li>
-        </ul>
+        <h1 class="entry-title" itemprop="headline">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}</h1>{% endif %}
         <hr/>
       </header>
       <div class="entry-content">

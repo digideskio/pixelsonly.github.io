@@ -35,13 +35,16 @@ body {
 		border: 1px solid @black;
 		.rounded(4px);
 		&:hover {
-			border: 1px solid @white;
-			border-bottom: 1px solid lighten(@black,50);
-			border: 1px solid fade(@white,50);
+			// border: 1px solid @white;
+			// border-bottom: 1px solid lighten(@black,50);
+			// border: 1px solid fade(@white,50);
 		}
 	}
 	a {
 		color: @white;
+		&:hover {
+			color: @accent-color;
+		}
 	}
 }
 // Responsive nav toggle stuff
@@ -188,6 +191,9 @@ body {
 		max-width: 100%;
 		margin-right: 0;
 		margin-left: 0;
+	}
+	ul {
+		
 	}
 }
 .entry-tags {

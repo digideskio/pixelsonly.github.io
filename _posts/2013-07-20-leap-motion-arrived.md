@@ -5,7 +5,7 @@ description: "My Leap Motion controller arrived a few days early, unfortunately 
 category: articles
 tags:
   - gadgets
-  - leapmotion
+  - leap motion
 image:
   feature: leapmotion-feature.jpg
 comments: true

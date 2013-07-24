@@ -1,9 +1,22 @@
 ---
 layout: work
 permalink: /work/index.html
-title: Ryan Lindsey, Web developer, gadget lover & adrenaline junkie
+title: Ryan Lindsey - Web developer, gadget lover & adrenaline junkie
 headline: "Work"
 ---
+
+## Summary
+
+* Deep understanding of HTML5, CSS3 & Javascript
+* Front-end asset architecture & optimization for high-performace websites
+* Absolutely love evaluating new technology, tools, etc
+* Take pride in writing clean & re-usable code
+* Ruby on Rails enthusiast
+* Enjoy language pre-proccessors such as HAML, SASS & Coffeescript
+* Pixel-level attention to detail
+* Strong foundation in UI development & usability
+
+<br/>
 
 ## Current
 
