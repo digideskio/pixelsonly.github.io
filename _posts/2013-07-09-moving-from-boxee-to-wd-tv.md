@@ -43,7 +43,6 @@ My media library weighs in around 4TB and lives on Network Attached Storage in a
 * iTunes access & shared content
 * extremely limited codec support
 * HDMI + optical audio output
-* iOS remote app (it's okay, but not the best)
 
 **[WD TV Live](http://www.wdc.com/en/products/products.aspx?id=330)**
   
@@ -83,3 +82,9 @@ I have since disabled the *Media Library* functionality entirely. I can still na
 I've spent several weeks with my **WD TV Live** and the experience keeps changing. I've had to completely disable the *Media Library* feature in order to gain extra system stability. Unfortunately that doesn't seem to have solved everything. I believe there are real perfomance issues with the Netflix app as it continues to hang at different times, especially when queueing up TV episodes back to back. I am fortunate to be a Verizon FiOS customer with a 75/35 Mbps connection, so I definitely don't have bandwidth issues. The Netflix iPad app doesn't experience these issues, my gut is telling me these are platform specific problems.
 
 I really want to like the **WD TV Live**, but inconsistent performance and stability tarnish it's reputation the more you use it. To be fair, the Netflix issues could very well not be the device's fault because I've noticed similarities on other devices like Roku. I'm probably going to boot my **Boxee Box** up again and give it another chance.
+
+---
+
+### Update: July 25, 2013
+
+I returned the **WD TV Live** back to Amazon today. Over the past few weeks I've spent more timef trying to get the **WD TV Live** to work than I have actually enjoying content. I've decided to give Apple TV another shot and see if I can live without all the features and functionality I've grown accustomed to. Apple's AirPlay functionality works well and is proving more useful than I anticipated. All that being said, I still think there is room for competition in this space. If there was a box that provided the "app-like" experience of Apple TV, the Media Library and codec support of Boxee I'd gladly pay $200 or more for it.
