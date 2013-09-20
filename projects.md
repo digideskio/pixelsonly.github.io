@@ -3,6 +3,18 @@ layout: page
 permalink: /projects/index.html
 title: Projects
 headline: "Projects"
+image:
+  feature: resume-feature.jpg
+---
+
+**Music App Demo** [visit](http://pixelsonly.com/angular-music){:target="_blank"}
+
+A web app built with [AngularJS](http://angularjs.org/){:target="_blank"} that showcases a few basic features of my [Music API](http://music.ryanlindsey.me){:target="_blank"}. I have been interested in AngularJS for awhile and I was quite impressed with how easy it was to hook up a 3rd party API and render a user-interface. I was impressed with the lack of boilerplate required to achieve the desired result.
+
+* Consumes a JSON API from another personal project
+* Built with Middleman and written in Coffeescript &amp; HAML
+* Served via Github Pages
+
 ---
 
 **Personal Music API** &nbsp;<a href="http://music.ryanlindsey.me" target="_blank">visit</a>

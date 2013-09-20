@@ -1,20 +1,22 @@
 ---
 layout: work
-permalink: /work/index.html
+permalink: /resume/index.html
 title: Ryan Lindsey - Web developer, gadget lover & adrenaline junkie
-headline: "Work"
+headline: "Résumé"
+image:
+  feature: resume-feature.jpg
 ---
 
 ## Summary
 
-* Deep understanding of HTML5, CSS3 & Javascript
+* [Ruby on Rails](http://rubyonrails.org/){:target="_blank"} enthusiast
+* Enjoy language pre-proccessors such as [HAML](http://haml.info/){:target="_blank"}, [SASS](http://sass-lang.com/){:target="_blank"} & [Coffeescript](http://coffeescript.org/){:target="_blank"}
 * Front-end asset architecture & optimization for high-performace websites
-* Absolutely love evaluating new technology, tools, etc
-* Take pride in writing clean & re-usable code
-* Ruby on Rails enthusiast
-* Enjoy language pre-proccessors such as HAML, SASS & Coffeescript
+* Absolutely love evaluating new technology, tools, etc.
+* Take pride in writing clean, reusable code
 * Pixel-level attention to detail
 * Strong foundation in UI development & usability
+* Able to work in small &amp; large team environments
 
 <br/>
 

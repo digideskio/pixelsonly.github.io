@@ -2,7 +2,6 @@ title:            Ryan Lindsey
 description:      "Web developer, gadget-lover & adrenaline junkie"
 logo:             site-logo.jpg
 disqus_shortname: "pixelsonly-github-io"
-#Comment out url when working locally to resolve base urls correctly
 url:              http://pixelsonly.com
 # url:              http://localhost:4000
 
@@ -32,8 +31,8 @@ google_verify:      pRTF5bgyr-EbTjLh3Up4Vf8WIcWubivgkEmj2PoeT9g
 links:
   - title: Articles
     url: /articles
-  - title: Work
-    url: /work
+  - title: Résumé
+    url: /resume
   - title: Projects
     url: /projects
 
