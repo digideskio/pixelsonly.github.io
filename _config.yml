@@ -1,5 +1,5 @@
 title:            Ryan Lindsey
-description:      "Web developer, gadget-lover & adrenaline junkie"
+description:      "Developer, gadget-lover & adrenaline junkie&hellip;"
 logo:             site-logo.jpg
 disqus_shortname: "pixelsonly-github-io"
 url:              http://pixelsonly.com
@@ -31,7 +31,7 @@ google_verify:      pRTF5bgyr-EbTjLh3Up4Vf8WIcWubivgkEmj2PoeT9g
 links:
   - title: Articles
     url: /articles
-  - title: Résumé
+  - title: Resume
     url: /resume
   - title: Projects
     url: /projects
