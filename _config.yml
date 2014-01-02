@@ -3,7 +3,6 @@ description:      "Developer, gadget-lover & adrenaline junkie&hellip;"
 logo:             site-logo.jpg
 disqus_shortname: "pixelsonly-github-io"
 url:              http://pixelsonly.com
-# url:              http://localhost:4000
 
 # Owner/author information
 owner:
@@ -15,7 +14,7 @@ owner:
   # facebook:       ""
   github:         "pixelsonly"
   linkedin:       "pixelsonly"
-  instagram:      "pixelsonly"
+  # instagram:      "pixelsonly"
   # tumblr:         ""
   # For Google Authorship https://plus.google.com/authorship
   # google_plus:    ""
