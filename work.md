@@ -144,7 +144,7 @@ Technology: Flash, HTML5, CSS3, Javascript, PHP, ASP
 
 Freelance web design and development for numerous local businesses, indie films and bands. My projects ranged from promotional microsites and online communities to content-management systems. As a sole-proprietor, I handled all aspects of the business including client relations, project management, design and development.
 
-Technology: PHP, Javascript, CSS, Flash
+Technology: Wordpress, Code Igniter, PHP, Javascript, CSS, Flash
 
 ---
 
