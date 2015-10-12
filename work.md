@@ -162,10 +162,13 @@ Technology: PHP, Javascript, CSS, Flash
 
 ## Awards
 
-2009 - Lester Wunderman Award, Southwest Airlines - A new form of free media
-2009 - Lester Wunderman Award, Toshiba Gamer Preparedness campaign
-2009 - Lester Wunderman Award, Toshiba Boring vs Normal campaign
-2008 - 38th Annual Creativity Award, Toshiba Fusion Finish campaign
+2009&mdash;Lester Wunderman Award, Southwest Airlines - A new form of free media
+
+2009&mdash;Lester Wunderman Award, Toshiba Gamer Preparedness campaign
+
+2009&mdash;Lester Wunderman Award, Toshiba Boring vs Normal campaign
+
+2008&mdash;38th Annual Creativity Award, Toshiba Fusion Finish campaign
 
 ---
 
