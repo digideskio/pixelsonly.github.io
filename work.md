@@ -3,8 +3,6 @@ layout: work
 permalink: /resume/index.html
 title: Ryan Lindsey - Developer, gadget lover & adrenaline junkie
 headline: "Resume"
-image:
-  feature: resume-feature.jpg
 ---
 
 ## Summary
