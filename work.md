@@ -5,6 +5,27 @@ title: Developer, gadget lover & adrenaline junkie
 headline: "Resume"
 ---
 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <p>
+        714-330-6251
+        <br>
+        <a href="mailto:ryan@pixelsonly.com">ryan@pixelsonly.com</a>
+        <br>
+        http://pixelsonly.com
+      </p>
+    </td>
+    <td width="50%">
+      <p style="text-align:right">
+        <a href="http://github.com/pixelsonly">github/pixelsonly</a>
+        <br>
+        <a href="http://linkedin.com/in/pixelsonly">linkedin/in/pixelsonly</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## Summary
 
 * Front-end architectecture &amp; optimization for high-performance web applications
