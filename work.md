@@ -14,6 +14,8 @@ headline: "Resume"
         <a href="mailto:ryan@pixelsonly.com">ryan@pixelsonly.com</a>
         <br>
         <a href="http://pixelsonly.com">http://pixelsonly.com</a>
+        <br>
+        <a href="http://cl.ly/dVOi" target="_blank">Download PDF</a>
       </p>
     </td>
     <td width="50%">
@@ -27,8 +29,6 @@ headline: "Resume"
     </td>
   </tr>
 </table>
-
-[Download my resume (PDF)](http://cl.ly/dVOi)
 
 ## Objective
 
