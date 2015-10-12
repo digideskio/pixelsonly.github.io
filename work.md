@@ -141,3 +141,41 @@ Technology: Flash, HTML5, CSS3, Javascript, PHP, ASP
 Freelance web design and development for numerous local businesses, indie films and bands. My projects ranged from promotional microsites and online communities to content-management systems. As a sole-proprietor, I handled all aspects of the business including client relations, project management, design and development.
 
 Technology: PHP, Javascript, CSS, Flash
+
+---
+
+## Recommendations
+
+### — Bradley Haydon, Lead Software Engineer at ReachLocal
+
+"I can't say enough good things about Ryan. He strives for perfection in everything he does, and it definitely shows in his work. He is an extremely talented developer, well versed in frontend and backend technologies. I am in awe of the skills he has in his arsenal, and it seems like he adds to this list daily. Ryan also has the unique ability to bring the best out of everyone he works with, whether it be UI/UX designers or the developers which he interacts with. He can flawlessly lead a team to deliver a product that results above and beyond expectations. I highly recommend Ryan to anyone, and hope that I have the opportunity to work with him for years to come."
+
+### — Andrew Reizuch, Sr. Art Director at TBWA\Chiat\Day
+
+"One of the most positive people in the agency, Ryan is a multi-talented developer that has a real thirst and passion for developing engaging experiences. It's clear that Ryan enjoys being involved in the creative process, taking hold of an idea, and making it something tangible to interact with. There's been times where I've brought him half-baked ideas that I thought were impossible - and by the next morning he'll have figured out an entire prototype. Cool guy. Digital mastermind."
+
+---
+
+## Awards
+
+2009 - Lester Wunderman Award, Southwest Airlines - A new form of free media
+2009 - Lester Wunderman Award, Toshiba Gamer Preparedness campaign
+2009 - Lester Wunderman Award, Toshiba Boring vs Normal campaign
+2008 - 38th Annual Creativity Award, Toshiba Fusion Finish campaign
+
+---
+
+## Education
+
+#### B.S. Interactive Media
+
+##### Art Institute of California
+
+Santa Ana, California Mar 2003 - Jun 2007
+
+#### A.A. Business Administration
+
+#####Golden West College
+
+Huntington Beach, CA Jun 2001 - Jun 2003
+
