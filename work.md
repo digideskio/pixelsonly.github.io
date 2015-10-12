@@ -9,7 +9,7 @@ headline: "Resume"
   <tr>
     <td width="50%">
       <p>
-        <a href="tel:+11743306251>714-330-6251</a>
+        (714) 330-6251
         <br>
         <a href="mailto:ryan@pixelsonly.com">ryan@pixelsonly.com</a>
         <br>
