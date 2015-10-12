@@ -32,7 +32,9 @@ headline: "Resume"
 
 ---
 
-I am focused on delivering high-performance web applications across a vartiety of technology &amp; frameworks. My role is to deliver exceptional user-experiences, provide technical insights, mentor other engineers &amp; continue to grow my skills &amp; capabilities.
+I am focused on delivering high-performance web applications across a vartiety of technology &amp; frameworks. I am passionate about delivering exceptional user-experiences, providing technical insight, mentoring other engineers &amp; continuing to grow my skills &amp; capabilities.
+
+When I'm not working on my monitor tan, I enjoy catching waves, riding motorcycles &amp; fresh powder days.
 
 ## Summary
 
