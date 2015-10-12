@@ -28,6 +28,8 @@ headline: "Resume"
   </tr>
 </table>
 
+[Download my resume (PDF)](http://cl.ly/dVOi)
+
 ## Objective
 
 ---
