@@ -95,7 +95,7 @@ My role included designing a new user-interface based upon business requirements
 
 [View Project](http://www.red.com/armory)
 
-##### Content Management System Redesign
+##### CMS Redesign
 Based upon feedback from various end-users I redesigned the custom content management system to address numerous efficiency and workflow issues. I introduced a more modern ui aesthetic and improved overall usability across the entire interface.
 
 Some key areas of improvement included enhanced search interfaces, new dashboard with data visualizations and robust content publishing tools.
