@@ -28,12 +28,15 @@ headline: "Resume"
 
 ## Summary
 
+* Deep understanding of HTML5, CSS3 and Javascript
 * Front-end architectecture &amp; optimization for high-performance web applications
-* Passionate about web technology &amp; enjoy evaluating new tools
+* Passionate about web technology &amp; enjoy evaluating new tools (currently diving into Sails.js)
 * Experience working with various language pre-processors such as [SASS](http://sass-lang.com/), [HAML](http://haml.info/) &amp; [Coffeescript](http://coffeescript.org/).
 * Take pride in writing clean &amp; scalable code
-* Pixel-level attention to detail
+* Possess a pixel-level attention to detail
 * Strong foundation in UI development &amp; usability
+* Experience building custom e-commerce platforms and content management systems
+* i18n/localization
 
 <br>
 
