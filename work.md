@@ -9,16 +9,16 @@ headline: "Resume"
   <tr>
     <td width="50%">
       <p>
-        714-330-6251
+        <a href="tel:+11743306251>714-330-6251</a>
         <br>
         <a href="mailto:ryan@pixelsonly.com">ryan@pixelsonly.com</a>
         <br>
-        http://pixelsonly.com
+        <a href="http://pixelsonly.com">http://pixelsonly.com</a>
       </p>
     </td>
     <td width="50%">
       <p style="text-align:right">
-        <a href="http://github.com/pixelsonly">github/pixelsonly</a>
+        <a href="https://github.com/pixelsonly">github/pixelsonly</a>
         <br>
         <a href="http://linkedin.com/in/pixelsonly">linkedin/in/pixelsonly</a>
       </p>
