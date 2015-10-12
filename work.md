@@ -28,7 +28,9 @@ headline: "Resume"
 
 ## Objective
 
-I am focused on delivering high-performance web applications across a vartiety of platforms and frameworks. My role as a senior web application developer is to ensure we deliver high quality code, maintain standards as well as mentoring other engineers.
+---
+
+I am focused on delivering high-performance web applications across a vartiety of technology &amp; frameworks. My role is to deliver exceptional user-experiences, provide technical insights, mentor other engineers &amp; continue to grow my skills &amp; capabilities.
 
 ## Summary
 
