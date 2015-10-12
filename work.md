@@ -48,8 +48,6 @@ I am focused on delivering high-performance web applications across a vartiety o
 * Experience building custom e-commerce platforms and content management systems
 * i18n/localization
 
-<br>
-
 ## Skills
 
 ---
@@ -61,8 +59,6 @@ Javascript, CSS, Ruby, PHP, Java, Swift (learning)
 #### Technology &amp; Frameworks
 
 Native Javascript, ES6, HTML5, CSS3, SASS/SCSS, LESS, Coffeescript, HAML, Grunt/Gulp, Bower, Ruby on Rails, Sinatra, Middleman, Foundation, Bootstrap
-
-<br>
 
 ## Experience
 
