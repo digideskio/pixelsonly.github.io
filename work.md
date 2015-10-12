@@ -30,7 +30,7 @@ Native Javascript, ES6, HTML5, CSS3, SASS/SCSS, LESS, Coffeescript, HAML, Ruby o
 
 ## Work Experience
 
-**RED Digital Cinema** / '11&ndash;Current / Web Software Developer / <a href="http://www.red.com" title="www.red.com" target="_blank">red.com</a>
+**RED Digital Cinema** / '11&ndash;Current / Sr. Web Application Developer / <a href="http://www.red.com" title="www.red.com" target="_blank">red.com</a>
 
 Senior developer with a focus on user-interfaces for customer-facing and internal applications. I work closely with our marketing and creative teams to deliver products that reach our global customer base.
 
