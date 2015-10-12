@@ -31,7 +31,9 @@ headline: "Resume"
 I am focused on delivering high-performance web applications across a vartiety of platforms and frameworks. My role as a senior web application developer is to ensure we deliver high quality code, maintain standards as well as mentoring other engineers.
 
 ## Summary
+
 ---
+
 * Deep understanding of HTML5, CSS3 and Javascript
 * Front-end architectecture &amp; optimization for high-performance web applications
 * Passionate about web technology &amp; enjoy evaluating new tools (currently diving into Sails.js)
@@ -45,7 +47,9 @@ I am focused on delivering high-performance web applications across a vartiety o
 <br>
 
 ## Skills
+
 ---
+
 #### Programming
 
 Javascript, CSS, Ruby, PHP, Java, Swift (learning)
@@ -56,8 +60,10 @@ Native Javascript, ES6, HTML5, CSS3, SASS/SCSS, LESS, Coffeescript, HAML, Ruby o
 
 <br>
 
-## Work Experience
+## Experience
+
 ---
+
 ### RED Digital Cinema
 '11&ndash;Current / Sr. Web Application Developer / <a href="http://www.red.com" title="www.red.com" target="_blank">red.com</a>
 
