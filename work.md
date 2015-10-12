@@ -1,19 +1,42 @@
 ---
 layout: work
 permalink: /resume/index.html
-title: Ryan Lindsey - Developer, gadget lover & adrenaline junkie
+title: Developer, gadget lover & adrenaline junkie
 headline: "Resume"
 ---
 
 ## Summary
 
-* [Ruby on Rails](http://rubyonrails.org/){:target="_blank"} enthusiast
-* Enjoy language pre-proccessors such as [HAML](http://haml.info/){:target="_blank"}, [SASS](http://sass-lang.com/){:target="_blank"} & [Coffeescript](http://coffeescript.org/){:target="_blank"}
-* Front-end asset architecture & optimization for high-performace websites
-* Absolutely love evaluating new technology, tools, etc.
-* Take pride in writing clean, reusable code
+* Front-end architectecture &amp; optimization for high-performance web applications
+* Passionate about web technology &amp; enjoy evaluating new tools
+* Experience working with numerous language pre-processors such as [SASS](http://sass-lang.com/), [HAML](http://haml.info/) &amp; [Coffeescript](http://coffeescript.org/).
+* Take pride in writing clean &amp; scalable code
 * Pixel-level attention to detail
-* Strong foundation in UI development & usability
+* Strong foundation in UI development &amp; usability
+
+<br/>
+
+## Skills
+
+<figure class="half">
+  <h5>Programming</h5>
+  <ul>
+    <li>Javascript</li>
+    <li>CSS</li>
+    <li>Ruby</li>
+    <li>PHP</li>
+    <li>Java</li>
+  </ul>
+</figure>
+<figure class="half">
+  <h5>Frameworks &amp; Technology</h5>
+  <ul>
+    <li>ES6 &amp; Coffeescript
+    <li>Pre-processors such as SASS/SCSS, LESS, Coffeescript &amp; HAML
+    <li>Ruby on Rails, Sinatra &amp; Middleman</li>
+    <li>Foundation, Bootstrap, Modernizr, etc
+  </ul>
+</figure>
 
 <br/>
 
