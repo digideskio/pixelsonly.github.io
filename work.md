@@ -176,11 +176,7 @@ Technology: PHP, Javascript, CSS, Flash
 
 ## Education
 
-#### B.S. Interactive Media
+**B.S. Interactive Media** | Art Institute of California | 2003-2007
 
-**Art Institute of California** 2003-2007
-
-#### A.A. Business Administration
-
-**Golden West College** 2001-2003
+**A.A. Business Administration** | Golden West College | 2001-2003
 
