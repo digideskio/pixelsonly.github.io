@@ -16,31 +16,6 @@ headline: "Resume"
 
 <br/>
 
-## Skills
-
-<figure class="half">
-  <h5>Programming</h5>
-  <ul>
-    <li>Javascript</li>
-    <li>CSS</li>
-    <li>Ruby</li>
-    <li>PHP</li>
-    <li>Java</li>
-  </ul>
-</figure>
-<figure class="half">
-  <h5>Frameworks &amp; Technology</h5>
-  <ul>
-    <li>ES6 &amp; Coffeescript
-    <li>Pre-processors such as SASS/SCSS, LESS, Coffeescript &amp; HAML
-    <li>Ruby on Rails, Sinatra &amp; Middleman</li>
-    <li>Foundation, Bootstrap, Modernizr, etc
-  </ul>
-</figure>
-
-<br/>
-
-
 **RED Digital Cinema** / '11&ndash;Current / Web Software Developer / <a href="http://www.red.com" title="www.red.com" target="_blank">red.com</a>
 
 Senior developer with a focus on user-interfaces for customer-facing and internal applications. I work closely with our UX and design teams to deliver products that reach our global customer base.
