@@ -14,7 +14,21 @@ headline: "Resume"
 * Pixel-level attention to detail
 * Strong foundation in UI development &amp; usability
 
-<br/>
+<br>
+
+## Skills
+
+#### Programming
+
+Javascript, CSS, Ruby, PHP, Java, Swift (learning)
+
+#### Technology &amp; Frameworks
+
+Native Javascript, ES6, HTML5, CSS3, SASS/SCSS, LESS, Coffeescript, HAML, Ruby on Rails, Sinatra, Middleman, Foundation, Bootstrap
+
+<br>
+
+## Work Experience
 
 **RED Digital Cinema** / '11&ndash;Current / Web Software Developer / <a href="http://www.red.com" title="www.red.com" target="_blank">red.com</a>
 
