@@ -27,7 +27,7 @@ headline: "Resume"
 </table>
 
 ## Summary
-
+---
 * Deep understanding of HTML5, CSS3 and Javascript
 * Front-end architectecture &amp; optimization for high-performance web applications
 * Passionate about web technology &amp; enjoy evaluating new tools (currently diving into Sails.js)
@@ -41,7 +41,7 @@ headline: "Resume"
 <br>
 
 ## Skills
-
+---
 #### Programming
 
 Javascript, CSS, Ruby, PHP, Java, Swift (learning)
@@ -53,15 +53,13 @@ Native Javascript, ES6, HTML5, CSS3, SASS/SCSS, LESS, Coffeescript, HAML, Ruby o
 <br>
 
 ## Work Experience
-
+---
 ### RED Digital Cinema
 '11&ndash;Current / Sr. Web Application Developer / <a href="http://www.red.com" title="www.red.com" target="_blank">red.com</a>
 
 My primary responsibilities include architecting and implementing user interfaces for RED's e-commerce, marketing and support websites. Our team practices agile development and the DRY software design principle.
 
 My goal is to deliver high performance web applications to our global customer base as well as an exceptional user experience by collaborating with our marketing, creative and content teams.
-
-<br>
 
 #### Recent Projects &amp; Accomplishments
 
