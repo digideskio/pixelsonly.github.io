@@ -26,6 +26,10 @@ headline: "Resume"
   </tr>
 </table>
 
+## Objective
+
+I am focused on delivering high-performance web applications across a vartiety of platforms and frameworks. My role as a senior web application developer is to ensure we deliver high quality code, maintain standards as well as mentoring other engineers.
+
 ## Summary
 ---
 * Deep understanding of HTML5, CSS3 and Javascript
