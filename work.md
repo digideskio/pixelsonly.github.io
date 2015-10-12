@@ -58,7 +58,7 @@ Javascript, CSS, Ruby, PHP, Java, Swift (learning)
 
 #### Technology &amp; Frameworks
 
-Native Javascript, ES6, HTML5, CSS3, SASS/SCSS, LESS, Coffeescript, HAML, Grunt/Gulp, Ruby on Rails, Sinatra, Middleman, Foundation, Bootstrap
+Native Javascript, ES6, HTML5, CSS3, SASS/SCSS, LESS, Coffeescript, HAML, Grunt/Gulp, Bower, Ruby on Rails, Sinatra, Middleman, Foundation, Bootstrap
 
 <br>
 
