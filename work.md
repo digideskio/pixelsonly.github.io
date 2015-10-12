@@ -18,9 +18,11 @@ headline: "Resume"
     </td>
     <td width="50%">
       <p style="text-align:right">
-        <a href="https://github.com/pixelsonly">github/pixelsonly</a>
+        <a href="https://github.com/pixelsonly" target="_blank">github/pixelsonly</a>
         <br>
-        <a href="http://linkedin.com/in/pixelsonly">linkedin/in/pixelsonly</a>
+        <a href="http://linkedin.com/in/pixelsonly" target="_blank">linkedin/pixelsonly</a>
+        <br>
+        <a href="http://www.krop.com/pixelsonly/" target="_blank">krop/pixelsonly</a>
       </p>
     </td>
   </tr>
