@@ -34,7 +34,7 @@ headline: "Resume"
 
 ---
 
-I am focused on delivering high-performance web applications across a vartiety of technology &amp; frameworks. I am passionate about creating exceptional user-experiences, providing technical insight, mentoring other engineers &amp; continuing to grow my skills &amp; capabilities.
+My focus is delivering high-performance web applications across a vartiety of technology &amp; frameworks. I'm passionate about creating exceptional user-experiences, providing technical insight, mentoring engineers &amp; continuing to grow my own skills &amp; capabilities.
 
 When I'm not working on my monitor tan, I enjoy catching waves, riding motorcycles &amp; fresh powder days.
 
