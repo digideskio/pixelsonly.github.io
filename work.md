@@ -28,7 +28,7 @@ headline: "Resume"
   </tr>
 </table>
 
----
+<br>
 
 [Download as **PDF**](http://cl.ly/dVOi)
 
