@@ -30,9 +30,9 @@ headline: "Resume"
 
 ---
 
-[Download Resume **PDF**](http://cl.ly/dVOi)
+[Download as **PDF**](http://cl.ly/dVOi)
 
----
+<br>
 
 ## Objective
 
