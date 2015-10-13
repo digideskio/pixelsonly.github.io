@@ -30,7 +30,7 @@ headline: "Resume"
 
 <br>
 
-[Download as **PDF**](http://cl.ly/dVOi)
+[Download as **PDF**](http://www.krop.com/pixelsonly/resume/pdf/)
 
 <br>
 
