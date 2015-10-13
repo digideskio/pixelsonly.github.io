@@ -62,7 +62,7 @@ When I'm not working on my monitor tan, I enjoy catching waves, riding motorcycl
 
 #### Programming
 
-Javascript, CSS, Ruby, PHP, Java, Swift (learning)
+Javascript, CSS, Ruby, PHP, Java, iOS Swift (learning)
 
 #### Technology &amp; Frameworks
 
