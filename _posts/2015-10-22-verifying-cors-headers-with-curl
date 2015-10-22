@@ -5,7 +5,7 @@ description: ""
 category: articles
 tag: [development, shell, front-end]
 comments: true
-published: false
+published: true
 ---
 
 Often times I'll find myself wanting to verify CORS headers on a specific static resource, for example, a webfont.
