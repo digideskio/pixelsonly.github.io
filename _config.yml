@@ -1,13 +1,15 @@
 title:            Ryan Lindsey
 description:      "Developer, gadget-lover & adrenaline junkie"
-logo:             site-logo.jpg
+# logo:             site-logo.jpg
+logo:             https://images.contentful.com/v4zq60bqlwhq/5Pbas8LuLKEmkOGyGcY6MM/06c6824cfd07693b2a4d7dafa300c5f1/IMG_0644-ryan-lindsey-1600x1600.jpg?fm=jpg&fl=progressive&r=1000&w=420&h=420
 disqus_shortname: "pixelsonly-github-io"
 url:              http://pixelsonly.com
 
 # Owner/author information
 owner:
   name:           Ryan Lindsey
-  avatar:         ryan-lindsey-photo.png
+  # avatar:         ryan-lindsey-photo.png
+  avatar:         https://images.contentful.com/v4zq60bqlwhq/5Pbas8LuLKEmkOGyGcY6MM/06c6824cfd07693b2a4d7dafa300c5f1/IMG_0644-ryan-lindsey-1600x1600.jpg?fm=jpg&fl=progressive&r=1000&w=420&h=420
   email:          ryan@pixelsonly.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        "pixelsonly"
@@ -30,10 +32,16 @@ google_verify:      pRTF5bgyr-EbTjLh3Up4Vf8WIcWubivgkEmj2PoeT9g
 links:
   - title: Articles
     url: /articles
-  - title: Resume
-    url: /resume
-  - title: Projects
-    url: /projects
+  - title: GitHub
+    url: https://github.com/pixelsonly
+    external: true
+  - title: LinkedIn
+    url: https://linkedin.com/in/pixelsonly
+    external: true
+#   - title: Resume
+#     url: /resume
+#   - title: Projects
+#     url: /projects
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
